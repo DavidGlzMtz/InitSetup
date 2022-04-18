@@ -21,11 +21,11 @@
 - Example scene are provided in the Package (Tests\Editor\Examples).
 
 ## Installation
-Copy this [link](https://github.com/DavidGlzMtz/Tools---copia.git) on your Package Manager as git url
+Copy this [link](https://github.com/DavidGlzMtz/InitSetup.git) on your Package Manager as git url
 
-https://github.com/DavidGlzMtz/Tools---copia.git
+https://github.com/DavidGlzMtz/InitSetup.git
 
-You can download the *.zip on [GitHub](https://github.com/DavidGlzMtz/Tools---copia) to add it manually.
+You can download the *.zip on [GitHub](https://github.com/DavidGlzMtz/InitSetup.git) to add it manually.
 
 ![Instalación](https://media2.giphy.com/media/EYx69BG1OQKOMWIVtM/giphy.gif?cid=790b7611ef0c94f53d6d4b4b5637c20520f8a93ee19a0f8e&rid=giphy.gif&ct=g)
 
