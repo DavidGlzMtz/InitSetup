@@ -1,0 +1,18 @@
+{
+  "name": "com.mirrus.tools",
+  "version": "1.0.0",
+  "displayName": "InitSetup",
+  "description": "Add Folders to project and better logging options",
+  "unity": "2020.3",
+  "unityRelease": "25f1",
+  "keywords": [
+    "folders",
+    "debug",
+    "utility"
+  ],
+  "author": {
+    "name": "Mirrus",
+    "email": "david.a.gonzalez.mtz@gmail.com"
+  },
+  "dependencies": {}
+}
