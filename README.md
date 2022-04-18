@@ -28,14 +28,18 @@ https://github.com/DavidGlzMtz/Tools---copia.git
 You can download the *.zip on [GitHub](https://github.com/DavidGlzMtz/Tools---copia) to add it manually.
 
 ![Instalación](https://media2.giphy.com/media/EYx69BG1OQKOMWIVtM/giphy.gif?cid=790b7611ef0c94f53d6d4b4b5637c20520f8a93ee19a0f8e&rid=giphy.gif&ct=g)
+
 ## Demo
 Add folders.
+
 ![Carpetas](https://media2.giphy.com/media/BVqHZkTx45XjNIeOyw/giphy.gif?cid=790b7611ca10d0bb3cc32ae3b9fefb9fba94b4c27dd7431c&rid=giphy.gif&ct=g)
 
 Add the Logging component.
+
 ![Componentes](https://media0.giphy.com/media/ADWGaWDD9jWeTMkZ2l/giphy.gif?cid=790b7611acbb3af483acb3ed7133359caab20c48bb89ee92&rid=giphy.gif&ct=g)
 
 Log demo.
+
 ![Funcionamiento](https://media4.giphy.com/media/JCETu2NNvOFnbPrmz7/giphy.gif?cid=790b76110c9aacc70b1d797dc10d964dfb3f12e3a663d580&rid=giphy.gif&ct=g)
 ## Usage/Examples
 
