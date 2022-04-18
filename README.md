@@ -1,8 +1,8 @@
 
 # InitSetup
 
-- Creates root folder _Project
-- Creates the following folders in _Project:
+- Ability to create base folders such as root folder _Project
+- Inside the _Project folder you would find the following folders:
 
    - _Scripts
 
